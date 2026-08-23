@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Güçlü Koltuk Y1kama">
-  <rect width="64" height="64" rx="16" fill="#C45C26"/>
-  <path d="M14 38c0-8 6.2-14.5 18-14.5S50 30 50 38v6.5H14V38z" fill="#FFFBF5"/>
-  <path d="M18 32.5h28v4.2c0 1.6-1.3 2.9-2.9 2.9H20.9A2.9 2.9 0 0 1 18 36.7v-4.2z" fill="#C45C26"/>
-  <circle cx="22" cy="44.8" r="2.2" fill="#2A2118"/>
-  <circle cx="42" cy="44.8" r="2.2" fill="#2A2118"/>
-  <path d="M22 22.5c4.4-4 10.4-4.8 14.8-1.6" fill="none" stroke="#FFFBF5" stroke-width="2.4" stroke-linecap="round"/>
-</svg>
