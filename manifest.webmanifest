@@ -1,0 +1,12 @@
+{
+  "name": "Güçlü Koltuk Yıkama",
+  "short_name": "Güçlü KY",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f1e8",
+  "theme_color": "#c45c26",
+  "lang": "tr",
+  "icons": [
+    { "src": "assets/images/logo.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

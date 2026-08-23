@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1100" viewBox="0 0 900 1100">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#b08968"/><stop offset="1" stop-color="#4a3728"/>
+  </linearGradient></defs>
+  <rect width="900" height="1100" fill="url(#g)"/>
+  <circle cx="162" cy="242" r="198" fill="#fffbf5" fill-opacity=".08"/>
+  <text x="50%" y="50%" text-anchor="middle" fill="#fffbf5" font-family="Georgia,serif" font-size="60" opacity=".9">Ekip</text>
+  <text x="50%" y="638" text-anchor="middle" fill="#ede4d4" font-family="sans-serif" font-size="30" opacity=".8">Güçlü Koltuk Yıkama — fotoğrafı bu dosyanın yerine koyun</text>
+</svg>

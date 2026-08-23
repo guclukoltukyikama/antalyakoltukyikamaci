@@ -1,0 +1,8 @@
+/* TEAM */
+Firma: Güçlü Koltuk Yıkama
+Kurucu: Nurhayat Güçlü
+Konum: Antalya, Türkiye
+
+/* SITE */
+Dil: Türkçe
+Standartlar: HTML5, CSS3

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /_arsiv/
+
+Sitemap: https://www.antalyakoltukyikamaci.com.tr/sitemap.xml
